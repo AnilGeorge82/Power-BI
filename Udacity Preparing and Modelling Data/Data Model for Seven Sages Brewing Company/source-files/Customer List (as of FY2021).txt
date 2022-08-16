@@ -3,7 +3,7 @@ BC100	Saanich Pub	Bar	Victoria	British Columbia	Canada
 BC101	Toques and Blokes	Bar	Vancouver	British Columbia	Canada
 BC102	Queens Arms	Bar	Victoria	British Columbia	Canada
 BC103	McDougal's	Distributor	Vancouver	British Columbia	Canada
-BC105	The Black Bear	Bar	Victoria	British Columbia	Canarda
+BC105	The Black Bear	Bar	Victoria	British Columbia	Canada
 BC109	Ale's What Cures You	Distributor	Victoria	British Columbia	Canada
 BC110	Barrel's Best	Distributor	Victoria	British Columbia	Canada
 BC111	Tequila Mockinbird	Bar	Surry	British Columbia	Canada
