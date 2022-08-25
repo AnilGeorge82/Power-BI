@@ -7,7 +7,7 @@ BC105	The Black Bear	Bar	Victoria	British Columbia	Canada
 BC109	Ale's What Cures You	Distributor	Victoria	British Columbia	Canada
 BC110	Barrel's Best	Distributor	Victoria	British Columbia	Canada
 BC111	Tequila Mockinbird	Bar	Surry	British Columbia	Canada
-WA001	Cash Purchase	SSBC Tsting Room	Redmond	Washington	United States
+WA001	Cash Purchase	SSBC Tasting Room	Redmond	Washington	United States
 WA003	Beergatory	Bar	Tacoma	Washington	United States
 WA004	Moe's 	Bar	Tacoma	Washington	United States
 WA005	The Killer Well	Bar	Seattle	Washington	United States
